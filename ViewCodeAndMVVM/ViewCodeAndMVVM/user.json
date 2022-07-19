@@ -1,0 +1,121 @@
+{
+    "group": [
+        {
+            "name": "Caio",
+            "age": 25,
+            "profession": "Developer iOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": true,
+            "identifier": 0
+        },
+        {
+            "name": "Felipe",
+            "age": 32,
+            "profession": "Developer iOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 1
+        },
+        {
+            "name": "Lucas",
+            "age": 27,
+            "profession": "Developer iOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 2
+        },
+        {
+            "name": "Jean",
+            "age": 24,
+            "profession": "Developer iOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 3
+        },
+        {
+            "name": "Caio",
+            "age": 25,
+            "profession": "Developer iOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 4
+        },
+        {
+            "name": "Felipe",
+            "age": 32,
+            "profession": "Developer iOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 5
+        },
+        {
+            "name": "Lucas",
+            "age": 27,
+            "profession": "Developer iOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 6
+        },
+        {
+            "name": "Jean",
+            "age": 24,
+            "profession": "Developer iOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 7
+        },
+        {
+            "name": "Caio",
+            "age": 25,
+            "profession": "Developer iOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 8
+        },
+        {
+            "name": "Felipe",
+            "age": 32,
+            "profession": "Developer iOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 9
+        },
+        {
+            "name": "Lucas",
+            "age": 27,
+            "profession": "Developer iOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 10
+        },
+        {
+            "name": "Jean",
+            "age": 24,
+            "profession": "Developer iOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 11
+        },
+        {
+            "name": "Rodrigo",
+            "age": 36,
+            "profession": "Developer iOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 12
+        }
+    ]
+}
